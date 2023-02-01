@@ -5,6 +5,7 @@ using namespace std;
 
 typedef pair<int,int> fraction;
 
+int github_try;
 int order, fn,n;
 vector<fraction> F;
 vector<vector<int>> AFT;
